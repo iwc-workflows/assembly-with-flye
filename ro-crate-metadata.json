@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2024-02-14T16:45:00.609259",
+            "datePublished": "2024-03-26T19:05:29.978485",
             "hasPart": [
                 {
                     "@id": "Genome-assembly-with-Flye.ga"
@@ -72,7 +72,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/assembly-with-flye",
-            "version": "0.1"
+            "version": "0.2"
         },
         {
             "@id": "#galaxy",
