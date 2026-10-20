@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2026-02-19T19:32:53.459290",
+            "datePublished": "2026-10-20T18:19:16.039297",
             "hasPart": [
                 {
                     "@id": "Genome-assembly-with-Flye.ga"
@@ -72,7 +72,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/assembly-with-flye",
-            "version": "0.4"
+            "version": "0.5"
         },
         {
             "@id": "#galaxy",
@@ -138,7 +138,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.37"
+            "engineVersion": ">=0.75.47"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
